@@ -16,6 +16,7 @@ namespace ClassLibrary
 
         public OperacionesDB()
         {
+            conexion = new SqlConnection();
             string connStr = ConfigurationManager.ConnectionStrings["myConnectionString"].ConnectionString;
             conexion.ConnectionString = connStr;
         }

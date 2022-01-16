@@ -1,0 +1,6 @@
+C:\Users\Sánchez\Documents\CSharp-Projects\Project\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Sánchez\Documents\CSharp-Projects\Project\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Sánchez\Documents\CSharp-Projects\Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Sánchez\Documents\CSharp-Projects\Project\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sánchez\Documents\CSharp-Projects\Project\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Sánchez\Documents\CSharp-Projects\Project\ClassLibrary\obj\Debug\ClassLibrary.pdb

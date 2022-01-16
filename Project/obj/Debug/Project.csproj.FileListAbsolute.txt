@@ -57,3 +57,5 @@ C:\Users\Sánchez\Documents\CSharp-Projects\Project\Project\obj\Debug\Project.cs
 C:\Users\Sánchez\Documents\CSharp-Projects\Project\Project\obj\Debug\Project.csproj.CopyComplete
 C:\Users\Sánchez\Documents\CSharp-Projects\Project\Project\obj\Debug\Project.dll
 C:\Users\Sánchez\Documents\CSharp-Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\Sánchez\Documents\CSharp-Projects\Project\Project\bin\ClassLibrary.dll
+C:\Users\Sánchez\Documents\CSharp-Projects\Project\Project\bin\ClassLibrary.pdb
